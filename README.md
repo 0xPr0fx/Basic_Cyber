@@ -10,6 +10,8 @@ this basics are
 
 3-Security Principles --> you can study COMPTIA Security + .
 
+Download the PDF and show the attached links.
+
 After this you should know about tracks in cybersecurity to know the next step.
 
 GOOD LUCK .
